@@ -229,7 +229,3 @@ button[type='button'] {
 #load-btn:hover {
   background: #6c8cff;
 }
-
-.iziToast-wrapper {
-  display: none;
-}

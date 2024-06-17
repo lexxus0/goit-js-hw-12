@@ -220,10 +220,11 @@ button[type='button'] {
   border: none;
 }
 
-#load-btn {
-  margin-top: 40px;
-  margin-left: 690px;
-  margin-right: 690px;
+.btn-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
 }
 
 #load-btn:hover {
